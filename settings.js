@@ -2,8 +2,8 @@ const version = require("@whiskeysockets/baileys/package.json").version
 
 
 
-//2348038903353
-global.pairingNumber = "2348038903353"
+//2348035461340
+global.pairingNumber = "2348035461340"
 
 
 
